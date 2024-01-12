@@ -1,3 +1,3 @@
 
 Added from remote
-another line from Github.
+another line from local repository.
