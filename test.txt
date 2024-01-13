@@ -1,3 +1,4 @@
 
 Added from remote
 another line from local repository.
+compare remote and local repository.
