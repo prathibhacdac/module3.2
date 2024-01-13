@@ -1,2 +1,2 @@
 from base branch
-from master branch
+from feature branch
